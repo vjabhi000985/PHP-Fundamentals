@@ -1,4 +1,4 @@
-#### **Installing phpn using powershell**
+#### **Installing PHP using powershell**
 - Open windows powershell and run it as an administrator.
 - Run the following command:
 ```shell
