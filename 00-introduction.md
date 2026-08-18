@@ -14,8 +14,8 @@ php --version
 ```
 
 #### **Installing composer package manager**
-- Download the composer from the following url:https://getcomposer.org/download/
-- 
+- Download the composer from the following url: https://getcomposer.org/download/
+
 
 #### **Installing php extension for vs code**
 - PHP Intellisense (must)
@@ -41,5 +41,5 @@ git config --global --list
 - https://www.phptutorial.net/
 
 #### **Reference Books**
-- ![PHP Book](https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(14).pdf)
-- ![System Design](https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap/blob/main/System%20Design/Resources/System%20Design%20Interview%20by%20Alex%20Xu.pdf)
+- [PHP Book](https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(14).pdf)
+- [System Design](https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap/blob/main/System%20Design/Resources/System%20Design%20Interview%20by%20Alex%20Xu.pdf)
